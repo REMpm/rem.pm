@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+h1, h2, h3, h4, h5, a, p, button {
+  font-family: Lexend;
+}
+
+
+hr {
+  background-color: #FFFFFF;
+  color: #FFFFFF;
+  height: 4px;
+}
+
+button {
+  background-color: #4411ee;
+  color: #FFFFFF;
+  font-family: Lexend;
+  border-radius: 6px;
+  border-color: #4411ee;
+  border-width: 5px;
+}
